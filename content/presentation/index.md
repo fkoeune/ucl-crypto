@@ -8,4 +8,5 @@ This wide diversity of knowledge allowed the group to develop a strong expertise
 Through strong commitment to academic research (more than 150 international publications since 2004) and its numerous collaborations with industrial partners, the UCL Crypto Group is intensively involved in the evolution of security technology, including the design of the next generation of smart-cards, sensor networks, privacy preserving systems, etc.  
 **Watch our amazing publications [here](http://sites.uclouvain.be/tools/export/export.py?q=%20%28sm_creator%3A%22Standaert%2C%20Fran%C3%A7ois-Xavier%22%20OR%20sm_creator%3A%22Pereira%2C%20Olivier%22%29&s=sm_date%20desc&n=999999&f=html)**
     
-![screen reader text](logo_FEDERwallonie.jpg)(http://enmieux.be)
+
+ <a href="http://enmieux.be"><img src="https://europe.wallonie.be/themes/custom/spw/assets/img/logo_feder_wallonie.png" style="height:100px;"></a>
