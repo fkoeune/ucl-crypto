@@ -13,8 +13,7 @@ sections:
         filename: crypto.jpg
       text: |
         <br>
-        
-        The **UCL Crypto Group** gathers some twenty researchers with backgrounds from microelectronics, telecommunications, computer science and mathematics.
+        The UCL Crypto Group gathers some twenty researchers with backgrounds from microelectronics, telecommunications, computer science and mathematics.
 
   - block: collection
     content:
