@@ -7,6 +7,9 @@ title: UCLouvain Crypto Group # Website name
 baseURL: '' # Website URL
 #baseURL: 'https://www-crypto.elen.ucl.ac.be/crypto/' # Website URL : FK: this creates a mess --> to be investigated
 
+theme: "wowchemy"
+
+
 ############################
 ## LANGUAGE
 ############################
@@ -20,11 +23,6 @@ removePathAccents: true
 ## MODULES
 ############################
 
-module:
-  imports:
-    - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify-cms
-    - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify
-    - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy/v5
 
 ############################
 ## ADVANCED
@@ -43,9 +41,6 @@ permalinks:
   categories: '/category/:slug/'
   publication_types: '/publication-type/:slug/'
 disableAliases: true
-outputs:
-  home: [HTML, RSS, JSON, WebAppManifest, headers, redirects]
-  section: [HTML, RSS]
 imaging:
   resampleFilter: lanczos
   quality: 75
