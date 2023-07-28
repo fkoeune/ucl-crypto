@@ -4,7 +4,8 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: UCLouvain Crypto Group # Website name
-baseURL: 'https://example.com/' # Website URL
+baseURL: '' # Website URL
+#baseURL: 'https://www-crypto.elen.ucl.ac.be/crypto/' # Website URL : FK: this creates a mess --> to be investigated
 
 ############################
 ## LANGUAGE
