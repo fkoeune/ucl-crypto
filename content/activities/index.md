@@ -1,6 +1,11 @@
 ---
 title: "Activities"
-date: 2023-07-27
+date: 2023-07-30
+summary: Our main research projects.
+reading_time: false  # Show estimated reading time?
+share: false  # Show social sharing links?
+profile: false  # Show author profile?
+comments: false  # Show comments?
 ---
 
 ## Current Projects
@@ -17,3 +22,6 @@ date: 2023-07-27
   - Protected Implementations, Resilient Algorithms, Test and Evaluation for Side-Channel Security
 - EU-Walloon region FEDER project [CryptoMEDIA](https://decryptage.be/cryptomedia/)
   - Secure management of sensitive data
+
+
+![sponsors](sponsors_groupes.png)

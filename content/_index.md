@@ -8,7 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        UCLouvain Crypto Group
+        Welcome to the UCLouvain Crypto Group
       image:
         filename: crypto.jpg
       text: |
