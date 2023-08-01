@@ -6,7 +6,6 @@ reading_time: false  # Show estimated reading time?
 share: false  # Show social sharing links?
 profile: false  # Show author profile?
 comments: false  # Show comments?
-
 ---
 
 The **UCLouvain Crypto Group** gathers some fifteen researchers with backgrounds from microelectronics, telecommunications, computer science and mathematics.  
@@ -16,6 +15,7 @@ Through strong commitment to academic research (more than 150 international publ
 ![sponsors](sponsors_groupes.png)
 
 <!---
+
 {{< gallery album="sponsors" resize_options="1000x1000" >}}
 
 <a href="http://enmieux.be"><img src="https://europe.wallonie.be/themes/custom/spw/assets/img/logo_feder_wallonie.png" style="height:100px;"></a>
