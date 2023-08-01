@@ -12,7 +12,11 @@ sections:
       image:
         filename: crypto.jpg
       text: |
-        The UCL Crypto Group gathers some fifteen researchers with backgrounds from microelectronics, telecommunications, computer science and mathematics.
+        The UCLouvain Crypto Group gathers some fifteen researchers with backgrounds from microelectronics, telecommunications, computer science and mathematics.
+  - block: hero
+    content:
+      title: 
+      image:
+        filename: sponsors_groupes.png
+      text:
 ---
-#MARCHE PAS 
- <a href="http://enmieux.be"><img src="https://europe.wallonie.be/themes/custom/spw/assets/img/logo_feder_wallonie.png" style="height:100px;"></a>
