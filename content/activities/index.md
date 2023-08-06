@@ -51,4 +51,12 @@ comments: false  # Show comments?
 - [WalChain](https://walchain.be/)
   - Blockchain made in Wallonia 
 
-![sponsors](sponsors_groupes.png)
+<table cellspacing="20px" cellpadding="" border="0" align="c">
+<tbody><tr><td>
+<a href="https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe_en"><img src="../uploads/eu.jpg" alt="EU" style="height:50px;border:0"></a></td>
+<td><a href="https://innoviris.brussels/"><img src="../uploads/innoviris.jpg" alt="Innoviris" style="height:50px;border:0"></a></td>
+<td><a href="https://www.enmieux.be/"><img src="../uploads/enmieux.jpg" alt="FEDER" style="height:50px;border:0"></a></td>
+<td><a href="https://www.frs-fnrs.be/"><img src="../uploads/fnrs.jpg" alt="FNRS" style="height:50px;border:0"></a></td>
+<td><a href="https://recherche.wallonie.be/home.html"><img src="../uploads/wallonie.jpg" alt="Wallonie" style="height:50px;border:0"></a></td></tr>
+</tbody></table>
+
